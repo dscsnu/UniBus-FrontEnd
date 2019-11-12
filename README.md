@@ -1,4 +1,4 @@
-# unibus
+# UniBuS
 
 A new Flutter project.
 
