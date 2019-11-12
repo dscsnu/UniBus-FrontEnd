@@ -1,6 +1,6 @@
-# UniBuS
+# UniBus
 
-A new Flutter project.
+The SNU Shuttle app made using Flutter.
 
 ## Getting Started
 
