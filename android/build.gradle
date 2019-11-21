@@ -12,6 +12,13 @@ buildscript {
 }
 
 allprojects {
+    configurations {
+        all {
+            resolutionStrategy {
+                force "android.arch.lifecycle:runtime:1.1.1"
+            }
+        }
+    }
     repositories {
         google()
         jcenter()
